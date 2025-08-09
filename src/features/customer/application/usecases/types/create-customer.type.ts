@@ -1,4 +1,4 @@
-export class CreateCustomerRequest {
+export class CreateCustomerInput {
     name: string;
     email: string;
 }

@@ -1,8 +1,16 @@
 {
+  "experimentalTernaries": false,
   "printWidth": 80,
-  "tabWidth": 4,
+  "tabWidth": 2,
+  "useTabs": true,
   "semi": true,
   "singleQuote": true,
+  "jsxSingleQuote": false,
   "trailingComma": "all",
-  "endOfLine": "lf"
+  "bracketSpacing": true,
+  "bracketSameLine": false,
+  "arrowParens": "avoid",
+  "vueIndentScriptAndStyle": true,
+  "endOfLine": "lf",
+  "singleAttributePerLine": true
 }
